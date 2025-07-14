@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Number Guessing Game</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Welcome to the Number Guessing Game!</h1>
+    <form method="POST">
+        <p>Select Difficulty:</p>
+        <input type="radio" name="difficulty" value="1" required> Easy (1-50)<br>
+        <input type="radio" name="difficulty" value="2"> Medium (1-100)<br>
+        <input type="radio" name="difficulty" value="3"> Hard (1-200)<br><br>
+        <button type="submit">Start Game</button>
+    </form>
+</body>
+</html>
