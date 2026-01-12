@@ -1,5 +1,5 @@
-# Prodigy InfoTech Internship Tasks
-The guessinggame is one of the tasks i did for prodigy InfoTech Intership
+# Tasks
+The guessinggame
 ## What it does and how to use it
 You just input any number between a specific level , for example , level 1 is between 1 and 50 , so you choose a number between and 50 , as you input your guesses of a number , you will recieve promts , if the number you guessed is high or too low , until you win.
 ## To open it 
