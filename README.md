@@ -5,9 +5,10 @@ You just input any number between a specific level , for example , level 1 is be
 ## To open it 
 1.Download and Unzip the project(guessing game folder)
 
-2.Open terminal and run
-cd Guessing game
+2.Open terminal   
 
-python app.py
+3.run  cd Guessing game (note: this should be the file path on which you unzipped the file)
+then 
+run  python app.py 
 
-3.Visit: http://127.0.0.1:5000
+4.Visit: http://127.0.0.1:5000 on your browser
