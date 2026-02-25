@@ -1,8 +1,26 @@
-# The guessing game
-The guessing game
-## What it does and how to use it
-You just input any number between a specific level , for example , level 1 is between 1 and 50 , so you choose a number between and 50 , as you input your guesses of a number , you will recieve promts , if the number you guessed is high or too low , until you win.
-## To open it 
+#  Guessing Game (Python + Web)
+
+##  Overview
+A simple guessing game web application that challenges users to guess a random
+number. The project demonstrates basic logic implementation and user interaction.
+
+## Features
+- Random number generation
+- User input validation
+- Feedback on guesses
+- Simple and interactive UI
+
+## Technologies Used
+- Python
+- HTML
+- CSS
+
+## Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/EstherMoagi/GuessingGame-.git# The guessing game
+   
+## (Alternative to open it )To open it 
 1.Download and Unzip the project(guessing game folder)
 
 2.Open terminal   
